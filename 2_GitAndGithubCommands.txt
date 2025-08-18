@@ -1,0 +1,39 @@
+Git >> Version Control
+
+    v1
+    v2
+    v3
+new v4
+
+
+>> It is destributed (on cloud)
+>> collaboration
+    >> It is free and open source
+>> TRacking Chnages
+>> Recovery
+
+https://git-scm.com/downloads
+
+GitHub
+BitBucket
+GitLabs
+Gitpod
+
+>> for first time need to configure github in our system
+
+git config --global user.name "vishal-the-coder-creator"
+git config --global user.email "vishalp751998@gmail.com"
+
+git config --global color.ui auto
+
+Mandatatory Commands:
+>> git init
+>> git remote add origin https://github.com/vishal-the-coder-creator/GitDemo.git
+
+git pull origin main
+git status
+
+git add .
+git status
+gir commit -n "Commit Message"
+get push
